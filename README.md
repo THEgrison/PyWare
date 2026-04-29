@@ -1,4 +1,4 @@
-# Discord System Bot
+# Discord PyWare BOT
 
 Bot Discord d administration systeme avec commandes privees (owner) et moderation de base.
 
