@@ -79,7 +79,7 @@ setx DISCORD_TOKEN "votre_token"
 Depuis le dossier du script:
 
 ```bash
-python discord_bot.py
+python PyWare.py
 ```
 
 ## Auto demarrage
@@ -110,7 +110,6 @@ Creez un fichier `.env` dans le meme dossier:
 DISCORD_TOKEN=VotreTokenIci
 ```
 
-## Notes
 
 - `!translate_exec` mappe des phrases vers des commandes shell. A manipuler avec prudence.
 - Le bot peut executer des commandes systeme sur la machine hote.
