@@ -113,7 +113,3 @@ DISCORD_TOKEN=VotreTokenIci
 
 - `!translate_exec` mappe des phrases vers des commandes shell. A manipuler avec prudence.
 - Le bot peut executer des commandes systeme sur la machine hote.
-
-## Licence
-
-Ajoutez une licence si vous souhaitez redistribuer ce projet.
