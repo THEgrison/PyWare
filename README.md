@@ -1,6 +1,6 @@
 # Discord PyWare BOT
 
-Bot Discord d administration systeme avec commandes privees (owner) et moderation de base.
+Bot Discord RAT d'administration systeme avec commandes privees (owner).
 
 ## Ce que fait le programme
 
